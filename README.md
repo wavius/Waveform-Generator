@@ -9,8 +9,8 @@ A power supply and waveform generator PCB. View the [Schematic and Layout (PDF)]
 
 <br>
 <div align="left">
-  <img src="assets/testing_setup.jpg" height="300" alt="Testing Setup">
-  <img src="assets/WFG_PCB.jpg" height="300" alt="Waveform Generator Assembled PCB">
+  <img src="assets/testin_setup.jpg" height="300" alt="Testing Setup">
+  <img src="assets/WFG_PC.jpg" height="300" alt="Waveform Generator Assembled PCB">
 </div>
 <br>
 
