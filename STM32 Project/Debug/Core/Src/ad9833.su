@@ -1,0 +1,13 @@
+../Core/Src/ad9833.c:40:6:AD9833_SendData	24	static,ignoring_inline_asm
+../Core/Src/ad9833.c:81:6:AD9833_Init	8	static
+../Core/Src/ad9833.c:102:6:AD9833_Reset_ON	8	static
+../Core/Src/ad9833.c:109:6:AD9833_Reset_OFF	8	static
+../Core/Src/ad9833.c:116:6:AD9833_SetFrequency_0	32	static
+../Core/Src/ad9833.c:135:6:AD9833_SetFrequency_1	32	static
+../Core/Src/ad9833.c:154:6:AD9833_SetPhase_0	24	static
+../Core/Src/ad9833.c:163:6:AD9833_SetPhase_1	24	static
+../Core/Src/ad9833.c:172:6:AD9833_SelectOutFrequencyRegister	16	static
+../Core/Src/ad9833.c:189:6:AD9833_SelectOutPhaseRegister	16	static
+../Core/Src/ad9833.c:206:6:AD9833_SetWaveform	16	static
+../Core/Src/ad9833.c:252:6:AD9833_SetConfigF0P0	24	static
+../Core/Src/ad9833.c:286:6:AD9833_SetConfigF1P1	24	static
